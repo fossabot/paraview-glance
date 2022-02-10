@@ -1,4 +1,5 @@
 ![ParaView Glance](documentation/content/ParaViewGlance_Logo.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkrasendran%2Fparaview-glance.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkrasendran%2Fparaview-glance?ref=badge_shield)
 
 Introduction
 ============
@@ -106,3 +107,7 @@ ParaView Glance is distributed under the OSI-approved BSD 3-clause License.  See
 [COPYRIGHT]: COPYRIGHT
 [LICENSE]: LICENSE
 [ParaView Licenses]: http://www.paraview.org/paraview-license/
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkrasendran%2Fparaview-glance.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkrasendran%2Fparaview-glance?ref=badge_large)
